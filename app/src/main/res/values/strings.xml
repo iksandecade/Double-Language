@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Double Language app</string>
+    <string name="hallo_dunia">Hallo Dunia</string>
+    <string name="tvPerkenalan">Kamu sedang mencoba project dua bahasa, sebenarnya tidak hanya dua bahasa, tapi saya akan menambahkan lagi bahasanya</string>
+    <string name="btnNext">Lanjut</string>
+    <string name="tvStoryOne">Angela tinggal di brazil, Angela suka brazil. Tom tinggal di canada. Angela dan Tom bertemu. Angela dan Tom ingin bermain. Angela dan Tom ingin melompat. Anglea dan Tom ingin teriak. Angela dan Tom bermain, melompat, dan teriak</string>
+    <string name="btnBack">Kembali</string>
+</resources>

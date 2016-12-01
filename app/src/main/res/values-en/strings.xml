@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hallo_dunia">Hello World</string>
+    <string name="tvPerkenalan">Now you\'re trying two language project, actually not two language, but i will add more language</string>
+    <string name="btnNext">Next</string>
+    <string name="tvStoryOne">Angela lives in Brazil, Angela loves Brazil. Tom lives in Canada, Tom loves Canada. Angle and Tom met. Angle and Tom want to play. Angela and Tom want to jump. Angle and Tom want to yell. Angela and Tom play, jump and yell.</string>
+    <string name="btnBack">Back</string>
+</resources>
